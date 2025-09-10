@@ -4,5 +4,5 @@ enum  Direction{
 
 
 fn main(){
-    let
+    let my_direction=
 }
