@@ -1,1 +1,1 @@
-C:\Users\karns\rust-proj\rust\target\debug\rust.exe: C:\Users\karns\rust-proj\rust\src\main.rs
+C:\Users\karn0\Documents\GitHub\RUST\target\debug\rust.exe: C:\Users\karn0\Documents\GitHub\RUST\src\main.rs
